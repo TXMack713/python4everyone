@@ -1,0 +1,6 @@
+print("Enter the hours worked for the week: ")
+hours = int(input())
+print("Please enter your hourly pay rate: ")
+payrate = float(input())
+pay = str(hours * payrate)
+print("Your total pay for the week is: $" + pay)
