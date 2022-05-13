@@ -1,0 +1,1 @@
+Hi, I've created this repo to track my progress through Dr. Chuck Severance's Python 4 Everyone course. Thank you for taking the time to stop by and checkout my work. If you have any questions or would like to connect, please feel free to reach out to me anytime. Thank you.
