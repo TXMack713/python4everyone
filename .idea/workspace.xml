@@ -4,7 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f0d129d-ca2f-4964-874e-c45de80d9076" name="Changes" comment="" />
+    <list default="true" id="5f0d129d-ca2f-4964-874e-c45de80d9076" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../community-builders-backend/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../community-builders-backend/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community-builders-backend/volapp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../community-builders-backend/volapp/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community-builders-backend/volapp/src/main/java/com/volapp/WebSecurity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../community-builders-backend/volapp/src/main/java/com/volapp/WebSecurity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community-builders-backend/volapp/src/main/java/com/volapp/charityuser/MySQLUserDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../community-builders-backend/volapp/src/main/java/com/volapp/charityuser/MySQLUserDetailsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community-builders-backend/volapp/src/main/java/com/volapp/charityuser/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../community-builders-backend/volapp/src/main/java/com/volapp/charityuser/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community-builders-backend/volapp/src/main/java/com/volapp/charityuser/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../community-builders-backend/volapp/src/main/java/com/volapp/charityuser/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community-builders-backend/volapp/src/main/java/com/volapp/charityuser/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../community-builders-backend/volapp/src/main/java/com/volapp/charityuser/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community-builders-backend/volapp/src/main/java/com/volapp/events/Events.java" beforeDir="false" afterPath="$PROJECT_DIR$/../community-builders-backend/volapp/src/main/java/com/volapp/events/Events.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community-builders-backend/volapp/src/main/java/com/volapp/events/EventsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../community-builders-backend/volapp/src/main/java/com/volapp/events/EventsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community-builders-backend/volapp/src/main/java/com/volapp/events/EventsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../community-builders-backend/volapp/src/main/java/com/volapp/events/EventsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community-builders-backend/volapp/src/main/java/com/volapp/volunteer/MySQLVolunteerDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community-builders-backend/volapp/src/main/java/com/volapp/volunteer/Volunteer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community-builders-backend/volapp/src/main/java/com/volapp/volunteer/VolunteerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community-builders-backend/volapp/src/main/java/com/volapp/volunteer/VolunteerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community-builders-backend/volapp/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../community-builders-backend/volapp/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-css/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-css/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-css/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-css/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-css/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-css/.idea/hello-css.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-css/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-css/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-css/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-css/Internetting-Is-Hard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-css/dummy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-css/hello-css.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
