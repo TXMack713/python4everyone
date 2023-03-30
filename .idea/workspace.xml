@@ -5,6 +5,150 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f0d129d-ca2f-4964-874e-c45de80d9076" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../java4beginners/1. Fundamentals/Operators/1.5 Boolean Logic/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/1. Fundamentals/Operators/1.5 Boolean Logic/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/1. Fundamentals/Operators/1.6 Boolean Calculator/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/1. Fundamentals/Operators/1.6 Boolean Calculator/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/1. Fundamentals/Operators/Boolean Operators/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/1. Fundamentals/Operators/Boolean Operators/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/1. Fundamentals/Operators/Comparison Operators/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/1. Fundamentals/Operators/Comparison Operators/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/1. Fundamentals/Operators/Shortcut Operators/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/1. Fundamentals/Operators/Shortcut Operators/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/1. Fundamentals/Operators/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/1. Fundamentals/Operators/lesson-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/1. Fundamentals/Structure/1.1 Class syntax/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/1. Fundamentals/Structure/1.1 Class syntax/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/1. Fundamentals/Structure/1.2 Say Hello/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/1. Fundamentals/Structure/1.2 Say Hello/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/1. Fundamentals/Structure/Classes in Java/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/1. Fundamentals/Structure/Classes in Java/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/1. Fundamentals/Structure/Printing Statements/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/1. Fundamentals/Structure/Printing Statements/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/1. Fundamentals/Structure/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/1. Fundamentals/Structure/lesson-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/1. Fundamentals/Variables/1.3 Cafe Receipt/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/1. Fundamentals/Variables/1.3 Cafe Receipt/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/1. Fundamentals/Variables/1.4 Speed Calculator/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/1. Fundamentals/Variables/1.4 Speed Calculator/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/1. Fundamentals/Variables/Changing Values/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/1. Fundamentals/Variables/Changing Values/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/1. Fundamentals/Variables/Integer Division and Type Casting/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/1. Fundamentals/Variables/Integer Division and Type Casting/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/1. Fundamentals/Variables/Storing Values/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/1. Fundamentals/Variables/Storing Values/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/1. Fundamentals/Variables/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/1. Fundamentals/Variables/lesson-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/1. Fundamentals/section-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/1. Fundamentals/section-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/2. Flow Control/Conditionals/2.1 Client Points/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/2. Flow Control/Conditionals/2.1 Client Points/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/2. Flow Control/Conditionals/2.2 Roller Coaster/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/2. Flow Control/Conditionals/2.2 Roller Coaster/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/2. Flow Control/Conditionals/2.3 Smart Room/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/2. Flow Control/Conditionals/2.3 Smart Room/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/2. Flow Control/Conditionals/Conditionals/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/2. Flow Control/Conditionals/Conditionals/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/2. Flow Control/Conditionals/Nesting Conditionals/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/2. Flow Control/Conditionals/Nesting Conditionals/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/2. Flow Control/Conditionals/The else Clause/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/2. Flow Control/Conditionals/The else Clause/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/2. Flow Control/Conditionals/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/2. Flow Control/Conditionals/lesson-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/2. Flow Control/Loops/2.4 Odd Selector/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/2. Flow Control/Loops/2.4 Odd Selector/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/2. Flow Control/Loops/2.5 While Using Modulus/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/2. Flow Control/Loops/2.5 While Using Modulus/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/2. Flow Control/Loops/2.6 Breaking The Ice/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/2. Flow Control/Loops/2.6 Breaking The Ice/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/2. Flow Control/Loops/2.7 Hundredth Prime/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/2. Flow Control/Loops/2.7 Hundredth Prime/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/2. Flow Control/Loops/Nesting Loops and Conditionals/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/2. Flow Control/Loops/Nesting Loops and Conditionals/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/2. Flow Control/Loops/The for Loop/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/2. Flow Control/Loops/The for Loop/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/2. Flow Control/Loops/The while Loop/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/2. Flow Control/Loops/The while Loop/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/2. Flow Control/Loops/break and continue/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/2. Flow Control/Loops/break and continue/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/2. Flow Control/Loops/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/2. Flow Control/Loops/lesson-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/2. Flow Control/section-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/2. Flow Control/section-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/3. Objects and Methods/Methods/3.4 Estimate Age/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/3. Objects and Methods/Methods/3.4 Estimate Age/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/3. Objects and Methods/Methods/3.5 Make it A Combo/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/3. Objects and Methods/Methods/3.5 Make it A Combo/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/3. Objects and Methods/Methods/3.6 Counting Sheep/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/3. Objects and Methods/Methods/3.6 Counting Sheep/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/3. Objects and Methods/Methods/Returning Values/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/3. Objects and Methods/Methods/Returning Values/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/3. Objects and Methods/Methods/Static Attributes/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/3. Objects and Methods/Methods/Static Attributes/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/3. Objects and Methods/Methods/Void Methods/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/3. Objects and Methods/Methods/Void Methods/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/3. Objects and Methods/Methods/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/3. Objects and Methods/Methods/lesson-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/3. Objects and Methods/Objects/3.1 Make a Thing/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/3. Objects and Methods/Objects/3.1 Make a Thing/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/3. Objects and Methods/Objects/3.2 Shoe Maker/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/3. Objects and Methods/Objects/3.2 Shoe Maker/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/3. Objects and Methods/Objects/3.3 Car Factory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/3. Objects and Methods/Objects/3.3 Car Factory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/3. Objects and Methods/Objects/Attributes/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/3. Objects and Methods/Objects/Attributes/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/3. Objects and Methods/Objects/Constructors/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/3. Objects and Methods/Objects/Constructors/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/3. Objects and Methods/Objects/Objects/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/3. Objects and Methods/Objects/Objects/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/3. Objects and Methods/Objects/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/3. Objects and Methods/Objects/lesson-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/3. Objects and Methods/section-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/3. Objects and Methods/section-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/4. Arrays and String Methods/Arrays/4.3 Get Letter List/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/4. Arrays and String Methods/Arrays/4.3 Get Letter List/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/4. Arrays and String Methods/Arrays/4.4 Counting Error/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/4. Arrays and String Methods/Arrays/4.4 Counting Error/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/4. Arrays and String Methods/Arrays/Arrays/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/4. Arrays and String Methods/Arrays/Arrays/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/4. Arrays and String Methods/Arrays/The Enhanced for Loop/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/4. Arrays and String Methods/Arrays/The Enhanced for Loop/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/4. Arrays and String Methods/Arrays/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/4. Arrays and String Methods/Arrays/lesson-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/4. Arrays and String Methods/String Methods/4.1 Get Shortest Word/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/4. Arrays and String Methods/String Methods/4.1 Get Shortest Word/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/4. Arrays and String Methods/String Methods/4.2 Word Cutter/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/4. Arrays and String Methods/String Methods/4.2 Word Cutter/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/4. Arrays and String Methods/String Methods/String Length/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/4. Arrays and String Methods/String Methods/String Length/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/4. Arrays and String Methods/String Methods/Substrings/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/4. Arrays and String Methods/String Methods/Substrings/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/4. Arrays and String Methods/String Methods/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/4. Arrays and String Methods/String Methods/lesson-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/4. Arrays and String Methods/section-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/4. Arrays and String Methods/section-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/5. ArrayList and 2D Arrays/2D Arrays/2D Arrays/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/5. ArrayList and 2D Arrays/2D Arrays/2D Arrays/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/5. ArrayList and 2D Arrays/2D Arrays/5.3 Chessboard/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/5. ArrayList and 2D Arrays/2D Arrays/5.3 Chessboard/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/5. ArrayList and 2D Arrays/2D Arrays/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/5. ArrayList and 2D Arrays/2D Arrays/lesson-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/5. ArrayList and 2D Arrays/ArrayList/5.1 Month organizer/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/5. ArrayList and 2D Arrays/ArrayList/5.1 Month organizer/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/5. ArrayList and 2D Arrays/ArrayList/5.2 Average Calculator/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/5. ArrayList and 2D Arrays/ArrayList/5.2 Average Calculator/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/5. ArrayList and 2D Arrays/ArrayList/ArrayList Methods/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/5. ArrayList and 2D Arrays/ArrayList/ArrayList Methods/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/5. ArrayList and 2D Arrays/ArrayList/ArrayLists/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/5. ArrayList and 2D Arrays/ArrayList/ArrayLists/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/5. ArrayList and 2D Arrays/ArrayList/Wrapper Classes/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/5. ArrayList and 2D Arrays/ArrayList/Wrapper Classes/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/5. ArrayList and 2D Arrays/ArrayList/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/5. ArrayList and 2D Arrays/ArrayList/lesson-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/5. ArrayList and 2D Arrays/section-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/5. ArrayList and 2D Arrays/section-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/course-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java4beginners/course-remote-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../community-builders-backend/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../community-builders-backend/.project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../community-builders-backend/volapp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../community-builders-backend/volapp/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../community-builders-backend/volapp/src/main/java/com/volapp/WebSecurity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../community-builders-backend/volapp/src/main/java/com/volapp/WebSecurity.java" afterDir="false" />
@@ -32,6 +176,8 @@
       <change beforePath="$PROJECT_DIR$/../hello-css/Internetting-Is-Hard" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../hello-css/dummy.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../hello-css/hello-css.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise_4.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +192,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -62,10 +208,31 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "/home/txmack713/Desktop/GitHub/python_4_everyone",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.exercise_4">
+  <component name="RunManager" selected="Python.exercise_1 (1)">
+    <configuration name="exercise_1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_4_everyone" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_2/exercise_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="exercise_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_4_everyone" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,10 +319,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exercise_1 (1)" />
+        <item itemvalue="Python.exercise_1" />
         <item itemvalue="Python.exercise_4" />
         <item itemvalue="Python.exercise_3" />
         <item itemvalue="Python.exercise_2" />
-        <item itemvalue="Python.exercise_1" />
       </list>
     </recent_temporary>
   </component>
