@@ -1,0 +1,1 @@
+# Python for Everybody chapter 5 - Iterations, exercise 2
