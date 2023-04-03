@@ -149,6 +149,11 @@
       <change afterPath="$PROJECT_DIR$/../java4beginners/5. ArrayList and 2D Arrays/section-remote-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../java4beginners/course-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../java4beginners/course-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_6/exercise1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_6/exercise2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_6/exercise3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_6/exercise4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_6/exercise5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../community-builders-backend/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../community-builders-backend/.project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../community-builders-backend/volapp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../community-builders-backend/volapp/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../community-builders-backend/volapp/src/main/java/com/volapp/WebSecurity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../community-builders-backend/volapp/src/main/java/com/volapp/WebSecurity.java" afterDir="false" />
@@ -177,7 +182,6 @@
       <change beforePath="$PROJECT_DIR$/../hello-css/dummy.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../hello-css/hello-css.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise_4.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,15 +207,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/txmack713/Desktop/GitHub/python_4_everyone",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/txmack713/Desktop/GitHub/python_4_everyone&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.exercise_1 (1)">
+}</component>
+  <component name="RunManager" selected="Python.exercise1">
+    <configuration name="exercise1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_4_everyone" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_6/exercise1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="exercise_1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_4_everyone" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -246,27 +271,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/untitled/exercise_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="exercise_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_4_everyone" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/untitled" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/untitled/exercise_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -319,11 +323,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exercise1" />
         <item itemvalue="Python.exercise_1 (1)" />
         <item itemvalue="Python.exercise_1" />
         <item itemvalue="Python.exercise_4" />
         <item itemvalue="Python.exercise_3" />
-        <item itemvalue="Python.exercise_2" />
       </list>
     </recent_temporary>
   </component>
