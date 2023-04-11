@@ -8,8 +8,15 @@
 
 # myList = inp("Please enter a list of entries: ")
 def chop():
-    entry = input("Please enter a list of entries: ")
-    myList = entry.split()
+    myList = []
+    entry = input("Please enter a list of entries, press enter after each entry. Press 'end' when you are done: ")
+    while True:
+        if entry.lower() == "end":
+            break
+        else:
+            myList.append(entry)
+            entry = input()
+
     orig = myList[:]
     del myList[0]
     del myList[len(myList) - 1]
