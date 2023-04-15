@@ -17,5 +17,14 @@ for line in fhand:
         if len(words) == 0 or len(words) < 3: continue
         count[words[1]] = count.get(words[1], 0) + 1
 
-# placeholder for future code
-print(count)
+numberOfEmails = 0
+sender = ""
+
+for key, value in count.items():
+    if count[key] > numberOfEmails:
+        sender = key
+        numberOfEmails = count[key]
+
+# print("Here's the original dictionary of email occurrences: " + str(count))
+
+print("Here's the email address that sent the most emails: " + sender + " " + str(numberOfEmails))
