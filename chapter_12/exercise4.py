@@ -6,10 +6,13 @@
 # paragraph text, only count them. Test your program on several
 # small web pages as well as some larger web pages.
 
+import collections
+
 import urllib.request, urllib.parse, urllib.error
 from bs4 import BeautifulSoup
 import ssl
 
+collections.Callable = collections.abc.Callable
 # Ignore SSL certificate errors
 ctx = ssl.create_default_context()
 ctx.check_hostname = False
@@ -21,6 +24,12 @@ soup = BeautifulSoup(html, 'html.parser')
 
 # Retrieve all of the anchor tags
 tags = soup('p')
+alts = soup('a')
+
+for alt in alts:
+    print(alt.get('href', None))
+
+print("\nThere are a total of " + str(len(alts)) + " anchor tags in this webpage.\n")
 print("There are a total of " + str(len(tags)) + " paragraph tags in this webpage.")
 # for tag in tags:
 #     print(tag.get('href', None))

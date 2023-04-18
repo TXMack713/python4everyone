@@ -6,7 +6,7 @@
 # document. Don’t worry about the headers for this exercise, simply
 # show the first 3000 characters of the document contents.
 
-import urllib.request
+import urllib.request, urllib
 
 link = input("Enter a url to search. Please include https:// or http:// where necessary: ")
 
