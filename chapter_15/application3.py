@@ -50,7 +50,8 @@ while True:
     url = twurl.augment(TWITTER_URL, {'screen_name': acct, 'count': '100'})
     print('Retrieving account', acct)
     try:
-        except Exception as err:
+        connection = urllib.request.urlopen(url, context=ctx)
+    except Exception as err:
         print('Failed to Retrieve', err)
         break
 
@@ -87,17 +88,16 @@ while True:
             friend_id = cur.fetchone()[0]
             count_old = count_old + 1
         except:
-            cur.execute('''INSERT OR IGNORE INTO People (name, retrieved)
-                                VALUES (?, 0)''', (friend,))
+            cur.execute('''INSERT OR IGNORE INTO People (name, retrieved) VALUES (?, 0)''', (friend,))
             conn.commit()
             if cur.rowcount != 1:
                 print('Error inserting account:', friend)
                 continue
             friend_id = cur.lastrowid
             count_new = count_new + 1
-        cur.execute('''INSERT OR IGNORE INTO Follows (from_id, to_id)
-                            VALUES (?, ?)''', (id, friend_id))
-    print('New accounts=', countnew, ' revisited=', countold)
+        cur.execute('''INSERT OR IGNORE INTO Follows (from_id, to_id) VALUES (?, ?)''', (id, friend_id))
+        
+    print('New accounts=', count_new, ' revisited=', count_old)
     print('Remaining', headers['x-rate-limit-remaining'])
     conn.commit()
 cur.close()
