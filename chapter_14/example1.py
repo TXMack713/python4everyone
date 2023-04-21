@@ -1,4 +1,4 @@
-# Python for Everybody, Chapter 13 - Object Oriented Programming, Example 1
+# Python for Everybody, Chapter 14 - Object Oriented Programming, Example 1
 
 class PartyAnimal:
     x = 0
