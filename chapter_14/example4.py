@@ -1,4 +1,5 @@
-# Python for Everybody, Chapter 14 - Object Oriented Programming, Example 4
+#!/usr/bin/env python3
+# # Python for Everybody, Chapter 14 - Object Oriented Programming, Example 4
 
 from party import PartyAnimal
 

@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # Python for Everybody, Chapter 14 - Object Oriented Programming, Example 1
 
 class PartyAnimal:
